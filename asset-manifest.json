@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Samuel-Osondu/My-Movie_App.git/static/css/main.3292250f.css",
-    "main.js": "/Samuel-Osondu/My-Movie_App.git/static/js/main.2dd62c07.js",
-    "index.html": "/Samuel-Osondu/My-Movie_App.git/index.html",
-    "static/media/search.svg": "/Samuel-Osondu/My-Movie_App.git/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.3292250f.css.map": "/Samuel-Osondu/My-Movie_App.git/static/css/main.3292250f.css.map",
-    "main.2dd62c07.js.map": "/Samuel-Osondu/My-Movie_App.git/static/js/main.2dd62c07.js.map"
+    "main.css": "/My-Movie_App/static/css/main.3292250f.css",
+    "main.js": "/My-Movie_App/static/js/main.c0ef1bfa.js",
+    "index.html": "/My-Movie_App/index.html",
+    "static/media/search.svg": "/My-Movie_App/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.3292250f.css.map": "/My-Movie_App/static/css/main.3292250f.css.map",
+    "main.c0ef1bfa.js.map": "/My-Movie_App/static/js/main.c0ef1bfa.js.map"
   },
   "entrypoints": [
     "static/css/main.3292250f.css",
-    "static/js/main.2dd62c07.js"
+    "static/js/main.c0ef1bfa.js"
   ]
 }
