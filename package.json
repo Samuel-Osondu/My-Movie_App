@@ -1,7 +1,7 @@
 {
   "name": "02point",
   "version": "0.1.0",
-  "homepage": "https://github.com/Samuel-Osondu/My-Movie_App.git",
+  "homepage": "https://Samuel-Osondu.github.io/My-Movie_App",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
